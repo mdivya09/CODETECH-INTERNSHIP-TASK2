@@ -63,3 +63,9 @@ KEY INSIGHTS:
 5.Making predictions based on the model and using it for decision making.
 
 6.Identifying areas for improvement and further exploration.
+
+
+OUTPUT:
+
+![Screenshot (100)](https://github.com/mdivya09/CODETECH-INTERNSHIP-TASK2/assets/163804400/a4e854b4-6ddf-4689-9305-39c4498adafe)
+
